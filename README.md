@@ -10,6 +10,22 @@
  ## Description
  A deep learning project for detecting weather conditions from images. For a detailed info, check *ICS471 Project Report.pdf*.
  
+  ## Installation And Usage
+<details>
+    <summary>Click to expand!</summary>
+    <br/>
+  
+  1. Installation
+     - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
+     - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
+     - Then run the following command ````pip install -r requirements.txt````. With this, all the dependencies will be installed in your virtual environment. 
+  > **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
+
+  2. Usage
+     1. Open your project folder and go to the terminal and activate your virtual environment. 
+     2. Open the ````.ipynb```` file and enjoy.
+</details>
+
  ## Project Partners/Contributors
    - [Farhan AbdulQadir](https://github.com/Vegeterian)
    - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
