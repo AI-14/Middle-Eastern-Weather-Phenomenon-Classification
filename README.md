@@ -8,7 +8,7 @@
   Course Project: ICS 471/211 - Artificial Neural Networks and Deep Learning
   
  ## Description
- A deep learning project for detecting weather conditions from images. For a detailed info, check *ICS471 Project Report.pdf*.
+ A deep learning project for detecting weather conditions in the Middle Eastern region from RGB images. For a detailed info, check *ICS471 Project Report.pdf*.
  
   ## Installation And Usage
 <details>
