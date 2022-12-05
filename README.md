@@ -22,8 +22,8 @@
   > **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
 
   2. Usage
-     1. Open your project folder and go to the terminal and activate your virtual environment. 
-     2. Open the ````.ipynb```` file and enjoy.
+     - Open your project folder and go to the terminal and activate your virtual environment. 
+     - Open the ````.ipynb```` file and enjoy.
 </details>
 
  ## Project Partners/Contributors
