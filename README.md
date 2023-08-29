@@ -4,7 +4,7 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Installation and Usagee](#installation-usage)
+2. [Installation and Usage](#installation-usage)
 3. [Project Partners/Contributors](#contributors)
 
  ## Description <a name="description"><a/>
