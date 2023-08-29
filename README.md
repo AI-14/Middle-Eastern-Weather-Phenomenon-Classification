@@ -1,32 +1,26 @@
 # Middle Eastern Weather Phenomenon Classification
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-566be8?style=flat)
-  ![Vision Transformer](https://img.shields.io/badge/-Vision%20Transformer-yellow?style=flat)
-  ![Sklearn](https://img.shields.io/badge/-Sklearn-1fb30e?style=flat)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch)
   
   Course Project: ICS 471/211 - Artificial Neural Networks and Deep Learning
-  
- ## Description
+
+## Table of Contents
+1. [Description](#description)
+2. [Installation and Usagee](#installation-usage)
+3. [Project Partners/Contributors](#contributors)
+
+ ## Description <a name="description"><a/>
  A deep learning project for detecting weather conditions in the Middle Eastern region from RGB images. For a detailed info, check *ICS471 Project Report.pdf*.
  
-  ## Installation And Usage
-<details>
-    <summary>Click to expand!</summary>
-    <br/>
-  
-  1. Installation
-     - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
-     - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
-     - Then run the following command ````pip install -r requirements.txt````. With this, all the dependencies will be installed in your virtual environment. 
-  > **Note:** *If any dependency is missing or an error shows up, install it using ````pip install moduleName````*.
-
-  2. Usage
-     - Open your project folder and go to the terminal and activate your virtual environment. 
-     - Open the ````.ipynb```` file and enjoy.
+ ## Installation and Usage <a name="installation-usage"><a/>
+  - Requirements
+    - `python >= 3.6`
+    - `git clone https://github.com/AI-14/middle-eastern-weather-phenomenon-classification.git` - clones the repository
+    - `cd middle-eastern-weather-phenomenon-classification`
+    - `py -m venv yourVenvName` - creates a virtual environment
+    - `pip install -r requirements.txt` - installs all modules
+    - open `.ipynb` file
 </details>
 
- ## Project Partners/Contributors
+ ## Project Partners/Contributors <a name="contributors"><a/>
    - [Farhan AbdulQadir](https://github.com/Vegeterian)
    - [AbdulJawad Mohammed](https://github.com/abbaddon1001)
  
