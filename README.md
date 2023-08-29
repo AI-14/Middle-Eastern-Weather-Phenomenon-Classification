@@ -17,7 +17,7 @@
     - `cd middle-eastern-weather-phenomenon-classification`
     - `py -m venv yourVenvName` - creates a virtual environment
     - `pip install -r requirements.txt` - installs all modules
-    - open `.ipynb` file
+    - Open `.ipynb` file
 </details>
 
  ## Project Partners/Contributors <a name="contributors"><a/>
